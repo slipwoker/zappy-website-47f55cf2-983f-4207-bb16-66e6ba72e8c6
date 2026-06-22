@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://toled-jersey-47f55cf2.zappy5.app
+https://example.com
 חנות חולצות כדורגל מובילה עם חולצות כדורגל מקוריות בכל המידות. צילומי מוצר מרהיבים שמציגים כל פריט באור מושלם. היכנסו עכשיו לרכוש חולצת כדורגל אונליין בישראל במחיר משתלם!
 
 ### אודות
-https://toled-jersey-47f55cf2.zappy5.app/about
+https://example.com/about
 הכירו את Toled_jersey: חנות אונליין לחולצות כדורגל מקוריות בכל המידות, עם דגש על צילום מקצועי וחדשני שמבליט כל תפר. אנחנו מביאים לכם חולצות קבוצות כדורגל אירופאיות ישירות למסך.
 
 ### גלריה
-https://toled-jersey-47f55cf2.zappy5.app/gallery
+https://example.com/gallery
 צפו בגלריית חולצות הכדורגל המעוצבות שלנו: כל חולצת כדורגל מצולמת בתאורה מוקפדת שתגרום לכם להרגיש את הבד. רכשו חולצות כדורגל למכירה במבחר צבעים ומידות עוד היום.
 
 ### צור קשר
-https://toled-jersey-47f55cf2.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת חולצות כדורגל מקוריות בכל המידות? צרו קשר עם Toled_jersey וקבלו ייעוץ אישי, מענה מהיר ושירות שמבין כדורגל. קניית ג&#39;רזי כדורגל אונליין ישראל מתחילה פה.
 
 ### Products
-https://toled-jersey-47f55cf2.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Toled_jersey
 
 ### Cart
-https://toled-jersey-47f55cf2.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://toled-jersey-47f55cf2.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://toled-jersey-47f55cf2.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://toled-jersey-47f55cf2.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://toled-jersey-47f55cf2.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://toled-jersey-47f55cf2.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Toled_jersey
 
 ### Category
-https://toled-jersey-47f55cf2.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Toled_jersey
 
 ### תודה רבה | Toled_jersey
-https://toled-jersey-47f55cf2.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי. מספר הפנייה שלך שמור במערכת.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://toled-jersey-47f55cf2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://toled-jersey-47f55cf2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://toled-jersey-47f55cf2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce / Sports Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://toled-jersey-47f55cf2.zappy5.app/sitemap.xml
-- Robots: https://toled-jersey-47f55cf2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://toled-jersey-47f55cf2.zappy5.app/llms-full.txt
-- Products (JSON): https://toled-jersey-47f55cf2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://toled-jersey-47f55cf2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
